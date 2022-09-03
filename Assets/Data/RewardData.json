@@ -1,0 +1,46 @@
+{
+   "rewards":[
+      {
+         "title":"Hashir",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/0aRWQFKwfm3qlxBKNAXhlGLVo1b.jpg",
+         "coins":100
+      },
+      {
+         "title":"Usher",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/3rNiZ2G43vPrriqC7r958aL7VZT.jpg",
+         "coins":20
+      },
+      {
+         "title":"Mark",
+         "message":"Hi, I have sent these rewards.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/42taVNIhxezKiZrxNbezk1sFjFT.jpg",
+         "coins":10
+      },
+      {
+         "title":"Alina",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/4zI8ZqseJzALkS21kGXWf6v76fe.jpg",
+         "coins":1000
+      },
+      {
+         "title":"Elcin",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/0aRWQFKwfm3qlxBKNAXhlGLVo1b.jpg",
+         "coins":700
+      },
+      {
+         "title":"Mojang",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/0aRWQFKwfm3qlxBKNAXhlGLVo1b.jpg",
+         "coins":700
+      },
+      {
+         "title":"John",
+         "message":"You have received a gift from your friend.",
+         "avatarUrl":"https://storage.googleapis.com/rovoox-slot-test.appspot.com/avatars/0aRWQFKwfm3qlxBKNAXhlGLVo1b.jpg",
+         "coins":70
+      }
+   ]
+}
